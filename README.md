@@ -1,5 +1,5 @@
 # react-music-player
-A music player by React, open it at https://rectsuly.io/react-music-player/
+A music player by React, open it at https://rectsuly.github.io/react-music-player/
 ![首页](/player.png)
 
 ## 说明
